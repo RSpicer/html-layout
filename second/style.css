@@ -1,0 +1,34 @@
+html, body{
+	height: 100%;
+}
+
+#bluebox{
+	float: left;
+	height: 100%;
+	width: 33.33%;
+	background-color: #1b8fde;
+}
+#tealbox{
+	float: left;
+	height: 100%;
+	width: 33.33%;
+	background-color: #1ce9e7;
+}
+#container{
+	float: left;
+	height: 100%;
+	width: 33.33%;
+	float: right;
+}
+#ygbox{
+	height: 70%;
+	background-color: #9fe44e;
+}
+#redbox{
+	height: 30%;
+	//background-image: url("http://www.dotatalk.com/wp-content/uploads/2013/09/Logo-DOTA2.jpg");
+}
+#redbox img {
+	width: 100%;
+	height: 100%;
+}
